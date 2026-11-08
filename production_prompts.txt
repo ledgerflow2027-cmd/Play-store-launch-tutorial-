@@ -1,0 +1,17 @@
+VISUAL MASTER PROMPT
+Clean beginner-friendly YouTube tech tutorial, modern blue and teal interface accents, realistic screen-recording-inspired b-roll of app design and Android development, crisp UI close-ups, smooth controlled camera motion, professional studio lighting, accessible contrast, no baked-in text, no logos or watermarks, 16:9.
+
+CANVA SCENE PROMPT
+Animate a clean Canva-style design workflow for a fictional mobile app. Show four sequential steps with a visible progress bar: Create app icon, Design feature banner, Apply ASO text, Export assets. Include a 512x512 icon preview and 1024x500 feature banner preview inside a phone-and-desktop workspace. Use calm motion, clean blue/teal accents, and leave subtitle-safe space. No brand logos, no baked-in captions.
+
+KEYSTORE SCENE PROMPT
+Android release build workflow in a clean developer environment. Show a secure keystore concept, Android App Bundle export, and a prominent visual warning card communicating that the keystore must be backed up. Do not reveal real credentials or passwords. No baked-in text except abstract UI placeholders.
+
+SUBTITLE STYLE
+Bold white sans-serif with dark translucent rounded background, two lines maximum, high contrast, safe margins, word-synced emphasis on numbers and warnings.
+
+LOWER-THIRD STYLE
+Animated blue/teal pill lower-third with chapter number, title, and subtle progress line. Enter with a quick slide and settle smoothly; exit with a short fade.
+
+AUDIO MIX
+Male narration front and center. Calming instrumental BGM only under the Canva chapter and transitions, ducked approximately 10-14 dB beneath narration. Keep speech clear and avoid rhythmic distractions.

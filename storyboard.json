@@ -1,0 +1,17 @@
+{
+  "title": "How to Launch an App on Google Play Store (Complete Step-by-Step Guide)",
+  "duration_seconds": 480,
+  "format": {"ratio":"16:9","resolution":"1080p"},
+  "voice": {"gender":"male","style":"natural, clear, encouraging tech presenter"},
+  "global_graphics": ["bold synchronized subtitles", "animated chapter lower-thirds", "clean blue/teal tech palette"],
+  "scenes": [
+    {"id":"01","time":"0:00-0:35","title":"Launch Roadmap","visuals":["animated Play Store roadmap", "phone mockup", "clean code background"],"lower_third":"From idea to production"},
+    {"id":"02","time":"0:35-1:40","title":"Interactive Wireframing & UI Design","visuals":["Figma wireframes", "prototype taps", "component library"],"lower_third":"Chapter 1 | Design before code"},
+    {"id":"03","time":"1:40-3:00","title":"App Core Logic Development","visuals":["Flutter code", "Kotlin in Android Studio", "emulator testing", "debug console"],"lower_third":"Chapter 2 | Build one reliable flow"},
+    {"id":"04","time":"3:00-4:05","title":"Keystore & AAB Generation","visuals":["release settings", "AAB build progress", "large warning card: BACK UP YOUR KEYSTORE"],"lower_third":"Chapter 3 | Protect your signing credentials"},
+    {"id":"05","time":"4:05-5:20","title":"Store Assets & ASO","visuals":["animated Canva icon preview", "feature banner preview", "phone mockup", "four-step progress bar"],"progress_bar":["Create app icon","Design feature banner","Apply ASO text","Export assets"],"lower_third":"Chapter 4 | Make the listing compelling", "bgm":"calming, low-volume, voice-ducked"},
+    {"id":"06","time":"5:20-6:35","title":"Developer Account & Closed Beta","visuals":["developer account flow", "$25 fee callout", "20 tester icons", "14-day calendar"],"lower_third":"Chapter 5 | Test with real users"},
+    {"id":"07","time":"6:35-7:45","title":"Compliance & Production Rollout","visuals":["GitHub Pages privacy policy", "Data Safety checklist", "staged rollout graph", "Play Console review"],"lower_third":"Chapter 6 | Launch responsibly"},
+    {"id":"08","time":"7:45-8:00","title":"Final Checklist","visuals":["six completed checkmarks", "app live on Play Store", "encouraging end card"],"lower_third":"You’re ready to launch"}
+  ]
+}

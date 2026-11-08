@@ -1,0 +1,21 @@
+TITLE
+How to Launch an App on Google Play Store (Complete Step-by-Step Guide)
+
+FORMAT
+8-minute YouTube tutorial | 16:9 | 1080p
+
+CHAPTERS
+1. Interactive Wireframing & UI Design (Figma)
+2. App Core Logic Development (Flutter & Kotlin/Android Studio)
+3. Keystore & Android App Bundle (.aab) Generation — highlight keystore backup warning
+4. Creative Store Assets & ASO — Canva, 512x512 app icon, 1024x500 feature banner
+5. Developer Account Registration & Closed Beta Testing — mandatory $25 fee, 20 testers for 14 continuous days
+6. Compliance, Privacy Policy (GitHub Pages), Data Safety, and Production Rollout
+
+EDITING REQUIREMENTS
+- Chapter title cards and animated lower-thirds
+- Bold subtitles throughout
+- Modern coding, Figma, Canva, Android Studio, and Play Console b-roll
+- Canva sequence must show animated previews and a four-step progress bar
+- Calming BGM enters under Canva segment and ducks under voiceover
+- End with encouraging checklist and subscribe/next-step CTA
